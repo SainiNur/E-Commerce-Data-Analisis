@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Load dataset
-merged_df = pd.read_csv('E-Commerce Public Dataset/merged_df.csv')
+merged_df = pd.read_csv('E_Commerce_Dataset/merged_df.csv')
 
 # Title
 st.title('E-Commerce Dashboard')
